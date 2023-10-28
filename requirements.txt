@@ -13,3 +13,6 @@ deepcell-toolbox>=0.12.1
 
 # Required for keras.utils.plot_model
 pydot>=1.4.2,<2
+
+# GIAR additions
+pycocotools==2.0.6
